@@ -1,0 +1,245 @@
+{
+  "file": "1.mp4",
+  "slug": "sample-1",
+  "sha256": "b1caa759d6418eb433e80e257d4f7132d0b7ac3621ec05613466d9c7067f0dfd",
+  "width": 360,
+  "height": 640,
+  "native_fps": "30/1",
+  "decoded_frames": 1867,
+  "video_duration": 62.233333,
+  "container_duration": 62.293333,
+  "first_pts": 0.0,
+  "last_pts": 62.2,
+  "cadence_max_error_seconds": 6.666666701946045e-07,
+  "full_decode_passed": true,
+  "all_frames_exported": true,
+  "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+  "private_sheets": 32,
+  "candidate_transition_count": 9,
+  "candidate_transitions": [
+    {
+      "frame": 37,
+      "time": 1.233333,
+      "top_delta": 0.25430986285209656,
+      "hist_distance": 0.6596193313048095,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 99,
+      "time": 3.3,
+      "top_delta": 0.26436156034469604,
+      "hist_distance": 0.6817268301389405,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 209,
+      "time": 6.966667,
+      "top_delta": 0.28457921743392944,
+      "hist_distance": 0.5605177607696692,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 387,
+      "time": 12.9,
+      "top_delta": 0.26370882987976074,
+      "hist_distance": 0.3861888941803675,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 481,
+      "time": 16.033333,
+      "top_delta": 0.138294979929924,
+      "hist_distance": 0.33089389439419215,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 884,
+      "time": 29.466667,
+      "top_delta": 0.29592281579971313,
+      "hist_distance": 0.6615682179431847,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 1101,
+      "time": 36.7,
+      "top_delta": 0.37447354197502136,
+      "hist_distance": 0.641485517414754,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 1161,
+      "time": 38.7,
+      "top_delta": 0.35374370217323303,
+      "hist_distance": 0.5569002479446424,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 1657,
+      "time": 55.233333,
+      "top_delta": 0.22839991748332977,
+      "hist_distance": 0.6148496848024496,
+      "kind": "candidate_requires_visual_review"
+    }
+  ],
+  "metric_summary": {
+    "y_mean": {
+      "p05": 0.2221740558743477,
+      "median": 0.40038174390792847,
+      "p95": 0.5536393761634827
+    },
+    "y_p05": {
+      "p05": 0.02112643141299486,
+      "median": 0.0605427511036396,
+      "p95": 0.2239104315638542
+    },
+    "y_median": {
+      "p05": 0.14951294660568237,
+      "median": 0.37199294567108154,
+      "p95": 0.5463695049285888
+    },
+    "y_p95": {
+      "p05": 0.6205337345600128,
+      "median": 0.8111658126115793,
+      "p95": 0.9848406255245209
+    },
+    "saturation_mean": {
+      "p05": 0.2627088235294118,
+      "median": 0.42437711056644883,
+      "p95": 0.6717063657407408
+    },
+    "ink_fraction_proxy": {
+      "p05": 0.00859375,
+      "median": 0.13625434027777777,
+      "p95": 0.37690842013888864
+    },
+    "laplacian_variance": {
+      "p05": 995.9398869310618,
+      "median": 1612.7677382809488,
+      "p95": 3089.516172619056
+    },
+    "delta_visual_top": {
+      "p05": 0.0014071233104914428,
+      "median": 0.02303163707256317,
+      "p95": 0.07253443449735637
+    },
+    "delta_caption_bottom": {
+      "p05": 0.0001508593792095781,
+      "median": 0.010368919000029564,
+      "p95": 0.06203548945486545
+    },
+    "hist_distance_top": {
+      "p05": 0.013424957449888577,
+      "median": 0.04949528112447229,
+      "p95": 0.16040513022416195
+    }
+  },
+  "rgb_palette_bins": [
+    {
+      "rgb_bin_center": [
+        248,
+        248,
+        248
+      ],
+      "pixel_fraction": 0.023276535440099982
+    },
+    {
+      "rgb_bin_center": [
+        8,
+        8,
+        8
+      ],
+      "pixel_fraction": 0.017059565256204248
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        24,
+        40
+      ],
+      "pixel_fraction": 0.016419686960661786
+    },
+    {
+      "rgb_bin_center": [
+        8,
+        8,
+        24
+      ],
+      "pixel_fraction": 0.015839879783372018
+    },
+    {
+      "rgb_bin_center": [
+        40,
+        40,
+        40
+      ],
+      "pixel_fraction": 0.013544047193953461
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        24,
+        24
+      ],
+      "pixel_fraction": 0.012678204784859846
+    },
+    {
+      "rgb_bin_center": [
+        8,
+        8,
+        56
+      ],
+      "pixel_fraction": 0.00993699041837767
+    },
+    {
+      "rgb_bin_center": [
+        40,
+        40,
+        56
+      ],
+      "pixel_fraction": 0.00862941141462834
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        40,
+        40
+      ],
+      "pixel_fraction": 0.008408022376956497
+    },
+    {
+      "rgb_bin_center": [
+        152,
+        152,
+        168
+      ],
+      "pixel_fraction": 0.007839522704278998
+    },
+    {
+      "rgb_bin_center": [
+        56,
+        56,
+        56
+      ],
+      "pixel_fraction": 0.0071446691067071355
+    },
+    {
+      "rgb_bin_center": [
+        136,
+        136,
+        152
+      ],
+      "pixel_fraction": 0.007135295780515384
+    }
+  ],
+  "decode_analysis_seconds": 11.37,
+  "software": {
+    "opencv": "5.0.0",
+    "numpy": "2.3.5"
+  },
+  "limits": [
+    "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+    "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+    "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+    "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+  ]
+}

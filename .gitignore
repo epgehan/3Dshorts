@@ -1,0 +1,25 @@
+# Reference pixels and narration remain private. Only derived measurements are committed.
+.private-study/
+reference-videos/
+private/
+frames/
+sheets/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+inputs.local.json
+inputs.*.private.json
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

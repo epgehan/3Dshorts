@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "native30fps_fixture_frames": 60,
+  "reject_non30fps_source": true,
+  "existing_exports_protected": true,
+  "partial_rerun_preserves_other_sources": true,
+  "overwrite_clears_generated_stale_frames": true,
+  "installer_excludes_private_media_manifests_venv": true,
+  "installer_preserves_existing_destination": true,
+  "actual_skill_installed_in_temporary_test_directory": true
+}

@@ -1,0 +1,7 @@
+# Inherited bridge renderer — implementation reference
+
+These13 TypeScript/TSXfiles are copied unchanged from the MIT-licensed `mromidev/claude-animated-shorts` baseline commit recorded in `UPSTREAM.md`. They illustrate Three.js/Remotion separation of world, flat characters, camera and post. Their original story, settings, timings and numerical presets are **not** the revised skill's defaults or a newly rendered proof of matching the seven samples.
+
+This is not a standalone ready-to-run app. A host needs compatible React/Remotion, `@remotion/three`, Three.js, `@react-three/fiber`, `@react-three/postprocessing` and `postprocessing`, plus a registered root composition and the static asset paths referenced by the files. `world.ts` tries assets under `public/bridge/kenney/*.glb`; provide appropriate licensed assets or deliberately replace that loader/world with original geometry. Missing assets may fall back partially, so audit the set rather than assuming load success.
+
+When adapting, replace the bridge story/cast/shot plan, provide current narration timing and caption overlay, and apply the new reports' scene-specific recommendations. Do not preserve a compulsory hook flash, march soundtrack, four-frame pose limit, fixed roll or universal day/golden light just because the old example contains it. The old shader/post code has not been rendered or runtime-validated in this research-only delivery.

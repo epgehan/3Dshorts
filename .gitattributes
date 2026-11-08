@@ -1,0 +1,9 @@
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+
+# Preserve the attributed upstream example byte-for-byte.
+templates/bridge/paint.ts whitespace=-blank-at-eof

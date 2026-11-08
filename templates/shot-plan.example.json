@@ -1,0 +1,11 @@
+{
+  "status": "illustrative original planning example, not extracted from a reference",
+  "fps": 30,
+  "canvas": {"width": 1080, "height": 1920},
+  "narration": {"file": "provided-original-voice.wav", "timing_locked": true},
+  "caption_style": {"font": "Arial", "case": "upper", "fill": "#FFFFFF", "outline": "#000000"},
+  "shots": [
+    {"id": "S01", "startFrame": 0, "endFrame": 90, "purpose": "Make the unusual causal prop readable", "camera": "Object insert, then reveal actor", "lighting_recipe": "warm practical interior", "actor_pose": "held lean; one concise prop gesture", "focus_plane": "hand and prop", "transition_out": {"type": "hard-cut", "durationFrames": 0}, "evidence_basis": "inspired by report grammar; original shot"},
+    {"id": "S02", "startFrame": 90, "endFrame": 180, "purpose": "Show reaction and grounded set", "camera": "medium three-quarter", "lighting_recipe": "same interior", "actor_pose": "head tilt and eye-state change", "focus_plane": "speaker", "transition_out": {"type": "end", "durationFrames": 0}, "evidence_basis": "proposed controls, not recovered source values"}
+  ]
+}

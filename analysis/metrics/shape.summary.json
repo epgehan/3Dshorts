@@ -1,0 +1,189 @@
+{
+  "file": "This-Shape.mp4",
+  "slug": "shape",
+  "sha256": "c87c4abb4892f758fc4a2d776efbeb0da2292af8a6816555f78123b6cb7b34b1",
+  "width": 360,
+  "height": 640,
+  "native_fps": "30/1",
+  "decoded_frames": 1895,
+  "video_duration": 63.166667,
+  "container_duration": 63.210667,
+  "first_pts": 0.0,
+  "last_pts": 63.133333,
+  "cadence_max_error_seconds": 6.666666701946045e-07,
+  "full_decode_passed": true,
+  "all_frames_exported": true,
+  "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+  "private_sheets": 32,
+  "candidate_transition_count": 1,
+  "candidate_transitions": [
+    {
+      "frame": 630,
+      "time": 21.0,
+      "top_delta": 0.1701866090297699,
+      "hist_distance": 0.4336316036548249,
+      "kind": "candidate_requires_visual_review"
+    }
+  ],
+  "metric_summary": {
+    "y_mean": {
+      "p05": 0.21962925493717195,
+      "median": 0.4368440806865692,
+      "p95": 0.5478640615940094
+    },
+    "y_p05": {
+      "p05": 0.005662745330482721,
+      "median": 0.14357176423072815,
+      "p95": 0.3320390804111958
+    },
+    "y_median": {
+      "p05": 0.19344244599342347,
+      "median": 0.4438651204109192,
+      "p95": 0.5851415485143661
+    },
+    "y_p95": {
+      "p05": 0.40859338790178246,
+      "median": 0.7567121386528015,
+      "p95": 0.971946656703949
+    },
+    "saturation_mean": {
+      "p05": 0.2503184844771242,
+      "median": 0.4854043436819172,
+      "p95": 0.6261384940087147
+    },
+    "ink_fraction_proxy": {
+      "p05": 0.00251171875,
+      "median": 0.026124131944444445,
+      "p95": 0.2286080729166666
+    },
+    "laplacian_variance": {
+      "p05": 718.2380891993996,
+      "median": 1667.0494023328993,
+      "p95": 3528.8864844438713
+    },
+    "delta_visual_top": {
+      "p05": 0.0033110070507973433,
+      "median": 0.031832244247198105,
+      "p95": 0.08477164432406424
+    },
+    "delta_caption_bottom": {
+      "p05": 0.0013709514401853084,
+      "median": 0.02441515401005745,
+      "p95": 0.10894401967525483
+    },
+    "hist_distance_top": {
+      "p05": 0.02270588328025494,
+      "median": 0.05338856510013781,
+      "p95": 0.15504249379000973
+    }
+  },
+  "rgb_palette_bins": [
+    {
+      "rgb_bin_center": [
+        40,
+        104,
+        200
+      ],
+      "pixel_fraction": 0.012123277631193198
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        40,
+        56
+      ],
+      "pixel_fraction": 0.011850190559953093
+    },
+    {
+      "rgb_bin_center": [
+        248,
+        248,
+        248
+      ],
+      "pixel_fraction": 0.01159872471416007
+    },
+    {
+      "rgb_bin_center": [
+        40,
+        120,
+        216
+      ],
+      "pixel_fraction": 0.011453349457637057
+    },
+    {
+      "rgb_bin_center": [
+        8,
+        8,
+        8
+      ],
+      "pixel_fraction": 0.009980357666373497
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        40,
+        104
+      ],
+      "pixel_fraction": 0.009831061272354148
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        56,
+        120
+      ],
+      "pixel_fraction": 0.00929181325124597
+    },
+    {
+      "rgb_bin_center": [
+        56,
+        120,
+        216
+      ],
+      "pixel_fraction": 0.009109315450014659
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        40,
+        72
+      ],
+      "pixel_fraction": 0.008879287598944591
+    },
+    {
+      "rgb_bin_center": [
+        8,
+        8,
+        24
+      ],
+      "pixel_fraction": 0.008590002931691586
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        40,
+        120
+      ],
+      "pixel_fraction": 0.008583883025505716
+    },
+    {
+      "rgb_bin_center": [
+        24,
+        88,
+        200
+      ],
+      "pixel_fraction": 0.007843227792436236
+    }
+  ],
+  "decode_analysis_seconds": 11.96,
+  "software": {
+    "opencv": "5.0.0",
+    "numpy": "2.3.5"
+  },
+  "limits": [
+    "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+    "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+    "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+    "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+  ]
+}

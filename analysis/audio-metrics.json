@@ -1,0 +1,54 @@
+{
+  "measurements": [
+    {
+      "slug": "mirror",
+      "integrated_lufs": -14.0,
+      "loudness_range_lu": 2.6,
+      "true_peak_dbfs": -2.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "knight",
+      "integrated_lufs": -15.0,
+      "loudness_range_lu": 2.4,
+      "true_peak_dbfs": -3.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "spot",
+      "integrated_lufs": -14.0,
+      "loudness_range_lu": 2.1,
+      "true_peak_dbfs": -2.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "cashiers",
+      "integrated_lufs": -15.1,
+      "loudness_range_lu": 2.0,
+      "true_peak_dbfs": -3.4,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "shape",
+      "integrated_lufs": -14.0,
+      "loudness_range_lu": 1.7,
+      "true_peak_dbfs": -2.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "railroads",
+      "integrated_lufs": -14.0,
+      "loudness_range_lu": 3.2,
+      "true_peak_dbfs": -2.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    },
+    {
+      "slug": "sample-1",
+      "integrated_lufs": -14.1,
+      "loudness_range_lu": 2.2,
+      "true_peak_dbfs": -2.1,
+      "method": "FFmpegEBUR128 complete mixed program, no stem separation"
+    }
+  ],
+  "limits": "Mixed-program measurements do not recover narration loudness, speech rate, music/SFX gains or original mix settings."
+}

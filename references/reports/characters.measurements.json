@@ -1,0 +1,125 @@
+{
+  "source_resolution": [
+    360,
+    640
+  ],
+  "fps": 30,
+  "method": "manual visual estimates at native resolution; no original rig inferred",
+  "boundary_uncertainty_px": [
+    2,
+    4
+  ],
+  "measurements": [
+    {
+      "video": "mirror",
+      "frame": 300,
+      "time_seconds": 10.0,
+      "feature": "face_disc",
+      "bbox_xyxy": [
+        111,
+        204,
+        286,
+        357
+      ],
+      "width_px": 175,
+      "height_px": 153,
+      "caveat": "hat hides crown; seated"
+    },
+    {
+      "video": "spot",
+      "frame": 750,
+      "time_seconds": 25.0,
+      "feature": "head_hair_envelope",
+      "bbox_xyxy": [
+        35,
+        122,
+        220,
+        292
+      ],
+      "width_px": 185,
+      "height_px": 170,
+      "caveat": "hair included"
+    },
+    {
+      "video": "shape",
+      "frame": 0,
+      "time_seconds": 0.0,
+      "feature": "head_envelope",
+      "bbox_xyxy": [
+        126,
+        208,
+        219,
+        306
+      ],
+      "width_px": 93,
+      "height_px": 98,
+      "caveat": "bent standing worker"
+    },
+    {
+      "video": "cashiers",
+      "frame": 120,
+      "time_seconds": 4.0,
+      "feature": "head_hair_envelope",
+      "bbox_xyxy": [
+        98,
+        73,
+        311,
+        318
+      ],
+      "width_px": 213,
+      "height_px": 245,
+      "caveat": "counter hides lower body"
+    },
+    {
+      "video": "shape",
+      "frame": 660,
+      "time_seconds": 22.0,
+      "feature": "head_envelope",
+      "bbox_xyxy": [
+        194,
+        177,
+        325,
+        309
+      ],
+      "width_px": 131,
+      "height_px": 132,
+      "caveat": "leaned night figure"
+    }
+  ],
+  "adjacent_frame_index": [
+    {
+      "video": "mirror",
+      "frames": [
+        299,
+        300,
+        301,
+        302
+      ],
+      "observation": "half-lidded to closed eyes; arm and prop move; full blink duration not determined"
+    },
+    {
+      "video": "cashiers",
+      "frame_range_inclusive": [
+        1080,
+        1139
+      ],
+      "observation": "seated gesture and chair contact"
+    },
+    {
+      "video": "shape",
+      "frame_range_inclusive": [
+        660,
+        719
+      ],
+      "observation": "laugh, transition overlap, wide scale"
+    },
+    {
+      "video": "sample-1",
+      "frame_range_inclusive": [
+        0,
+        59
+      ],
+      "observation": "wheel/seat contact, expression changes, camera transition"
+    }
+  ]
+}

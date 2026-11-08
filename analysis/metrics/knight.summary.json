@@ -1,0 +1,210 @@
+{
+  "file": "This-Knight-Found-SnapYT.App.mp4",
+  "slug": "knight",
+  "sha256": "702d1f862c7a9abf8c909803215522b1eddd3634632980d310e5d9c77814e23f",
+  "width": 360,
+  "height": 640,
+  "native_fps": "30/1",
+  "decoded_frames": 1219,
+  "video_duration": 40.633333,
+  "container_duration": 40.682667,
+  "first_pts": 0.0,
+  "last_pts": 40.6,
+  "cadence_max_error_seconds": 6.666666701946045e-07,
+  "full_decode_passed": true,
+  "all_frames_exported": true,
+  "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+  "private_sheets": 21,
+  "candidate_transition_count": 4,
+  "candidate_transitions": [
+    {
+      "frame": 113,
+      "time": 3.766667,
+      "top_delta": 0.20216815173625946,
+      "hist_distance": 0.447317706901421,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 152,
+      "time": 5.066667,
+      "top_delta": 0.14528749883174896,
+      "hist_distance": 0.21442793949835356,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 804,
+      "time": 26.8,
+      "top_delta": 0.1573166698217392,
+      "hist_distance": 0.3862760269005377,
+      "kind": "candidate_requires_visual_review"
+    },
+    {
+      "frame": 940,
+      "time": 31.333333,
+      "top_delta": 0.13758577406406403,
+      "hist_distance": 0.5384751182431037,
+      "kind": "candidate_requires_visual_review"
+    }
+  ],
+  "metric_summary": {
+    "y_mean": {
+      "p05": 0.42953237891197205,
+      "median": 0.5327681303024292,
+      "p95": 0.6892890691757202
+    },
+    "y_p05": {
+      "p05": 0.15120690166950226,
+      "median": 0.23055014237761498,
+      "p95": 0.3229393869638443
+    },
+    "y_median": {
+      "p05": 0.3932722434401512,
+      "median": 0.5248161256313324,
+      "p95": 0.7700055241584778
+    },
+    "y_p95": {
+      "p05": 0.648179030418396,
+      "median": 0.9073679447174072,
+      "p95": 0.9573877334594726
+    },
+    "saturation_mean": {
+      "p05": 0.29208171977124187,
+      "median": 0.4657045206971678,
+      "p95": 0.5674495438453158
+    },
+    "ink_fraction_proxy": {
+      "p05": 0.0016792534722222222,
+      "median": 0.0033984375,
+      "p95": 0.012599392361111104
+    },
+    "laplacian_variance": {
+      "p05": 750.6687497555882,
+      "median": 1801.2955996066623,
+      "p95": 3381.704655297641
+    },
+    "delta_visual_top": {
+      "p05": 0.004269755212590098,
+      "median": 0.033307190984487534,
+      "p95": 0.08513906449079513
+    },
+    "delta_caption_bottom": {
+      "p05": 0.0009718471148516985,
+      "median": 0.017935367301106453,
+      "p95": 0.0684445671737193
+    },
+    "hist_distance_top": {
+      "p05": 0.020962364559920878,
+      "median": 0.056325622469185134,
+      "p95": 0.23654489817663535
+    }
+  },
+  "rgb_palette_bins": [
+    {
+      "rgb_bin_center": [
+        248,
+        248,
+        248
+      ],
+      "pixel_fraction": 0.013909967186218212
+    },
+    {
+      "rgb_bin_center": [
+        104,
+        56,
+        40
+      ],
+      "pixel_fraction": 0.01271984094430772
+    },
+    {
+      "rgb_bin_center": [
+        120,
+        72,
+        40
+      ],
+      "pixel_fraction": 0.012710782973293228
+    },
+    {
+      "rgb_bin_center": [
+        104,
+        56,
+        24
+      ],
+      "pixel_fraction": 0.012688565308540699
+    },
+    {
+      "rgb_bin_center": [
+        216,
+        216,
+        232
+      ],
+      "pixel_fraction": 0.012073022058153313
+    },
+    {
+      "rgb_bin_center": [
+        248,
+        232,
+        184
+      ],
+      "pixel_fraction": 0.010120602041746422
+    },
+    {
+      "rgb_bin_center": [
+        248,
+        232,
+        200
+      ],
+      "pixel_fraction": 0.00928214155500866
+    },
+    {
+      "rgb_bin_center": [
+        152,
+        88,
+        40
+      ],
+      "pixel_fraction": 0.009103431774678698
+    },
+    {
+      "rgb_bin_center": [
+        104,
+        184,
+        248
+      ],
+      "pixel_fraction": 0.008003600401057333
+    },
+    {
+      "rgb_bin_center": [
+        136,
+        72,
+        40
+      ],
+      "pixel_fraction": 0.007644927536231884
+    },
+    {
+      "rgb_bin_center": [
+        120,
+        184,
+        248
+      ],
+      "pixel_fraction": 0.007523357032175736
+    },
+    {
+      "rgb_bin_center": [
+        136,
+        88,
+        40
+      ],
+      "pixel_fraction": 0.0070537667487011214
+    }
+  ],
+  "decode_analysis_seconds": 7.61,
+  "software": {
+    "opencv": "5.0.0",
+    "numpy": "2.3.5"
+  },
+  "limits": [
+    "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+    "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+    "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+    "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+  ]
+}

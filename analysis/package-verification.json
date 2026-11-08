@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "scope": "skill/documentation/scripts/source-study package, not a newly rendered episode",
+  "counts": {
+    "json": 17,
+    "markdown": 23,
+    "python": 6,
+    "local_markdown_links": 61
+  },
+  "videos": 7,
+  "native_frames": 12488,
+  "private_contact_sheets_generated": 212,
+  "inherited_bridge_files_verified": 13,
+  "python_syntax": "passed",
+  "caption_component_bundle_syntax": "passed; React and Remotion external; not runtime rendering",
+  "installer_temporary_install": "passed",
+  "independent_review": "passed after installer/counter/rerun fixes; no remaining publication blocker",
+  "private_reference_media_committed": false,
+  "new_production_video_rendered": false
+}

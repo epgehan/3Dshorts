@@ -1,0 +1,63 @@
+{
+  "videos": [
+    {
+      "slug": "mirror",
+      "frames": 1922,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1922
+    },
+    {
+      "slug": "knight",
+      "frames": 1219,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1219
+    },
+    {
+      "slug": "spot",
+      "frames": 1898,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1898
+    },
+    {
+      "slug": "cashiers",
+      "frames": 1732,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1732
+    },
+    {
+      "slug": "shape",
+      "frames": 1895,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1895
+    },
+    {
+      "slug": "railroads",
+      "frames": 1955,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1955
+    },
+    {
+      "slug": "sample-1",
+      "frames": 1867,
+      "native_fps": 30,
+      "cadence": "passed",
+      "coverage": "passed",
+      "private_exports_verified": 1867
+    }
+  ],
+  "total_frames": 12488,
+  "status": "passed",
+  "source_resolution_note": "360x640 source;30fps study adds no genuine higher-resolution detail."
+}

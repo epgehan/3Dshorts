@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "options": 7,
+  "single_frame_step": true,
+  "thirty_frame_step": true,
+  "last_frame_seek": true,
+  "playback_advanced": true,
+  "native_dimensions": [
+    360,
+    640
+  ],
+  "browser_errors": []
+}

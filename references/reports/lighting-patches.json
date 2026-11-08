@@ -1,0 +1,425 @@
+{
+  "method": "Median of5x5patches on native-size quality93JPEG inspection exports of the H.264 source. Approximate display-referred values with an added inspection encoding, not scene-linear radiance or recovered material/light parameters. Manual semantic coordinates; no caption patches.",
+  "samples": [
+    {
+      "video": "mirror",
+      "frame": 300,
+      "time_seconds": 10.0,
+      "patch": "face_forehead",
+      "center_xy": [
+        190,
+        225
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        238,
+        238,
+        246
+      ],
+      "hex": "#eeeef6"
+    },
+    {
+      "video": "mirror",
+      "frame": 300,
+      "time_seconds": 10.0,
+      "patch": "sky",
+      "center_xy": [
+        85,
+        90
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        124,
+        197,
+        253
+      ],
+      "hex": "#7cc5fd"
+    },
+    {
+      "video": "mirror",
+      "frame": 1830,
+      "time_seconds": 61.0,
+      "patch": "face_right_cheek",
+      "center_xy": [
+        289,
+        350
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        203,
+        210,
+        255
+      ],
+      "hex": "#cbd2ff"
+    },
+    {
+      "video": "knight",
+      "frame": 480,
+      "time_seconds": 16.0,
+      "patch": "face_forehead",
+      "center_xy": [
+        44,
+        187
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#ffffff"
+    },
+    {
+      "video": "knight",
+      "frame": 1200,
+      "time_seconds": 40.0,
+      "patch": "face_left_cheek",
+      "center_xy": [
+        110,
+        361
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        249,
+        239,
+        243
+      ],
+      "hex": "#f9eff3"
+    },
+    {
+      "video": "knight",
+      "frame": 1200,
+      "time_seconds": 40.0,
+      "patch": "lit_path",
+      "center_xy": [
+        181,
+        548
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        234,
+        187,
+        109
+      ],
+      "hex": "#eabb6d"
+    },
+    {
+      "video": "knight",
+      "frame": 1200,
+      "time_seconds": 40.0,
+      "patch": "cast_shadow",
+      "center_xy": [
+        300,
+        548
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        137,
+        104,
+        85
+      ],
+      "hex": "#896855"
+    },
+    {
+      "video": "spot",
+      "frame": 0,
+      "time_seconds": 0.0,
+      "patch": "face_left_cheek",
+      "center_xy": [
+        133,
+        184
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        252,
+        247,
+        243
+      ],
+      "hex": "#fcf7f3"
+    },
+    {
+      "video": "spot",
+      "frame": 120,
+      "time_seconds": 4.0,
+      "patch": "face_left_cheek",
+      "center_xy": [
+        130,
+        207
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        243,
+        233,
+        135
+      ],
+      "hex": "#f3e987"
+    },
+    {
+      "video": "spot",
+      "frame": 300,
+      "time_seconds": 10.0,
+      "patch": "face_left_cheek",
+      "center_xy": [
+        80,
+        330
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        242,
+        232,
+        230
+      ],
+      "hex": "#f2e8e6"
+    },
+    {
+      "video": "cashiers",
+      "frame": 0,
+      "time_seconds": 0.0,
+      "patch": "face_forehead",
+      "center_xy": [
+        179,
+        290
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        254,
+        236,
+        206
+      ],
+      "hex": "#feecce"
+    },
+    {
+      "video": "cashiers",
+      "frame": 660,
+      "time_seconds": 22.0,
+      "patch": "face_left_lower_cheek",
+      "center_xy": [
+        250,
+        326
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        249,
+        232,
+        242
+      ],
+      "hex": "#f9e8f2"
+    },
+    {
+      "video": "cashiers",
+      "frame": 660,
+      "time_seconds": 22.0,
+      "patch": "blue_wall",
+      "center_xy": [
+        300,
+        100
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        34,
+        63,
+        216
+      ],
+      "hex": "#223fd8"
+    },
+    {
+      "video": "shape",
+      "frame": 0,
+      "time_seconds": 0.0,
+      "patch": "face_left_cheek",
+      "center_xy": [
+        147,
+        271
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        248,
+        248,
+        252
+      ],
+      "hex": "#f8f8fc"
+    },
+    {
+      "video": "shape",
+      "frame": 660,
+      "time_seconds": 22.0,
+      "patch": "face_right_cheek",
+      "center_xy": [
+        293,
+        257
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        230,
+        215,
+        215
+      ],
+      "hex": "#e6d7d7"
+    },
+    {
+      "video": "shape",
+      "frame": 660,
+      "time_seconds": 22.0,
+      "patch": "night_sky",
+      "center_xy": [
+        190,
+        75
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        81,
+        92,
+        154
+      ],
+      "hex": "#515c9a"
+    },
+    {
+      "video": "railroads",
+      "frame": 1650,
+      "time_seconds": 55.0,
+      "patch": "face_right_cheek",
+      "center_xy": [
+        220,
+        181
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        252,
+        246,
+        246
+      ],
+      "hex": "#fcf6f6"
+    },
+    {
+      "video": "railroads",
+      "frame": 1650,
+      "time_seconds": 55.0,
+      "patch": "orange_rock",
+      "center_xy": [
+        295,
+        174
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        216,
+        111,
+        52
+      ],
+      "hex": "#d86f34"
+    },
+    {
+      "video": "sample-1",
+      "frame": 270,
+      "time_seconds": 9.0,
+      "patch": "standing_face_left_lower_cheek",
+      "center_xy": [
+        100,
+        310
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        255,
+        247,
+        248
+      ],
+      "hex": "#fff7f8"
+    },
+    {
+      "video": "sample-1",
+      "frame": 1260,
+      "time_seconds": 42.0,
+      "patch": "face_right_cheek",
+      "center_xy": [
+        249,
+        336
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        208,
+        206,
+        225
+      ],
+      "hex": "#d0cee1"
+    },
+    {
+      "video": "sample-1",
+      "frame": 1260,
+      "time_seconds": 42.0,
+      "patch": "night_sky",
+      "center_xy": [
+        249,
+        64
+      ],
+      "size": [
+        5,
+        5
+      ],
+      "median_srgb_8bit": [
+        8,
+        18,
+        82
+      ],
+      "hex": "#081252"
+    }
+  ]
+}

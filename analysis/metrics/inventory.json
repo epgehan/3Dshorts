@@ -1,0 +1,1510 @@
+{
+  "videos": [
+    {
+      "file": "How-a-Mirror-SnapYT.App.mp4",
+      "slug": "mirror",
+      "sha256": "e26ba4a4f01ff42d4ac8688fe3cbbb18acfe6c09ba4b2aef28f0f7970d8cde4c",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1922,
+      "video_duration": 64.066667,
+      "container_duration": 64.128,
+      "first_pts": 0.0,
+      "last_pts": 64.033333,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 33,
+      "candidate_transition_count": 9,
+      "candidate_transitions": [
+        {
+          "frame": 548,
+          "time": 18.266667,
+          "top_delta": 0.302387535572052,
+          "hist_distance": 0.5122512298120038,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 571,
+          "time": 19.033333,
+          "top_delta": 0.3405284881591797,
+          "hist_distance": 0.5477207594013239,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 593,
+          "time": 19.766667,
+          "top_delta": 0.25239327549934387,
+          "hist_distance": 0.6288438178210989,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 609,
+          "time": 20.3,
+          "top_delta": 0.34785565733909607,
+          "hist_distance": 0.6010169794089686,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1422,
+          "time": 47.4,
+          "top_delta": 0.25459611415863037,
+          "hist_distance": 0.2698926200533309,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1443,
+          "time": 48.1,
+          "top_delta": 0.13269442319869995,
+          "hist_distance": 0.41097373661655134,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1464,
+          "time": 48.8,
+          "top_delta": 0.22022394835948944,
+          "hist_distance": 0.6343242961198294,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1527,
+          "time": 50.9,
+          "top_delta": 0.17908546328544617,
+          "hist_distance": 0.22671361062848142,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1626,
+          "time": 54.2,
+          "top_delta": 0.23685678839683533,
+          "hist_distance": 0.26209939205412763,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.2730504244565964,
+          "median": 0.4700462520122528,
+          "p95": 0.6551959633827209
+        },
+        "y_p05": {
+          "p05": 0.07436627820134163,
+          "median": 0.14795844331383706,
+          "p95": 0.3458663750439882
+        },
+        "y_median": {
+          "p05": 0.1748910665512085,
+          "median": 0.42446981370449066,
+          "p95": 0.7056108906865118
+        },
+        "y_p95": {
+          "p05": 0.6198809944093228,
+          "median": 0.8668867141008376,
+          "p95": 0.9522290229797363
+        },
+        "saturation_mean": {
+          "p05": 0.32192780841503266,
+          "median": 0.405994927832244,
+          "p95": 0.6167507455065359
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.0016970486111111112,
+          "median": 0.025831163194444444,
+          "p95": 0.2378995225694438
+        },
+        "laplacian_variance": {
+          "p05": 633.9608504523383,
+          "median": 1898.6200158284505,
+          "p95": 2814.6723910284504
+        },
+        "delta_visual_top": {
+          "p05": 0.00481894975528121,
+          "median": 0.03489159047603607,
+          "p95": 0.1293339349329471
+        },
+        "delta_caption_bottom": {
+          "p05": 0.001242350635584444,
+          "median": 0.015449892729520798,
+          "p95": 0.09951885417103766
+        },
+        "hist_distance_top": {
+          "p05": 0.0242625113085417,
+          "median": 0.05619996573531011,
+          "p95": 0.20909758751394836
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.011900002890507574
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            24,
+            24
+          ],
+          "pixel_fraction": 0.0097239565267661
+        },
+        {
+          "rgb_bin_center": [
+            72,
+            40,
+            40
+          ],
+          "pixel_fraction": 0.009356175569429992
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            232,
+            248
+          ],
+          "pixel_fraction": 0.008829488958261071
+        },
+        {
+          "rgb_bin_center": [
+            136,
+            104,
+            72
+          ],
+          "pixel_fraction": 0.008787287547693375
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            8,
+            24
+          ],
+          "pixel_fraction": 0.007940802404902301
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            88,
+            40
+          ],
+          "pixel_fraction": 0.007330182680078622
+        },
+        {
+          "rgb_bin_center": [
+            120,
+            88,
+            72
+          ],
+          "pixel_fraction": 0.007221788646086253
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            40,
+            24
+          ],
+          "pixel_fraction": 0.0071908240837091
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            88,
+            24
+          ],
+          "pixel_fraction": 0.007152813909122442
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            40,
+            40
+          ],
+          "pixel_fraction": 0.007079828592900913
+        },
+        {
+          "rgb_bin_center": [
+            72,
+            24,
+            24
+          ],
+          "pixel_fraction": 0.006667244768181293
+        }
+      ],
+      "decode_analysis_seconds": 12.7,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "This-Knight-Found-SnapYT.App.mp4",
+      "slug": "knight",
+      "sha256": "702d1f862c7a9abf8c909803215522b1eddd3634632980d310e5d9c77814e23f",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1219,
+      "video_duration": 40.633333,
+      "container_duration": 40.682667,
+      "first_pts": 0.0,
+      "last_pts": 40.6,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 21,
+      "candidate_transition_count": 4,
+      "candidate_transitions": [
+        {
+          "frame": 113,
+          "time": 3.766667,
+          "top_delta": 0.20216815173625946,
+          "hist_distance": 0.447317706901421,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 152,
+          "time": 5.066667,
+          "top_delta": 0.14528749883174896,
+          "hist_distance": 0.21442793949835356,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 804,
+          "time": 26.8,
+          "top_delta": 0.1573166698217392,
+          "hist_distance": 0.3862760269005377,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 940,
+          "time": 31.333333,
+          "top_delta": 0.13758577406406403,
+          "hist_distance": 0.5384751182431037,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.42953237891197205,
+          "median": 0.5327681303024292,
+          "p95": 0.6892890691757202
+        },
+        "y_p05": {
+          "p05": 0.15120690166950226,
+          "median": 0.23055014237761498,
+          "p95": 0.3229393869638443
+        },
+        "y_median": {
+          "p05": 0.3932722434401512,
+          "median": 0.5248161256313324,
+          "p95": 0.7700055241584778
+        },
+        "y_p95": {
+          "p05": 0.648179030418396,
+          "median": 0.9073679447174072,
+          "p95": 0.9573877334594726
+        },
+        "saturation_mean": {
+          "p05": 0.29208171977124187,
+          "median": 0.4657045206971678,
+          "p95": 0.5674495438453158
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.0016792534722222222,
+          "median": 0.0033984375,
+          "p95": 0.012599392361111104
+        },
+        "laplacian_variance": {
+          "p05": 750.6687497555882,
+          "median": 1801.2955996066623,
+          "p95": 3381.704655297641
+        },
+        "delta_visual_top": {
+          "p05": 0.004269755212590098,
+          "median": 0.033307190984487534,
+          "p95": 0.08513906449079513
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0009718471148516985,
+          "median": 0.017935367301106453,
+          "p95": 0.0684445671737193
+        },
+        "hist_distance_top": {
+          "p05": 0.020962364559920878,
+          "median": 0.056325622469185134,
+          "p95": 0.23654489817663535
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.013909967186218212
+        },
+        {
+          "rgb_bin_center": [
+            104,
+            56,
+            40
+          ],
+          "pixel_fraction": 0.01271984094430772
+        },
+        {
+          "rgb_bin_center": [
+            120,
+            72,
+            40
+          ],
+          "pixel_fraction": 0.012710782973293228
+        },
+        {
+          "rgb_bin_center": [
+            104,
+            56,
+            24
+          ],
+          "pixel_fraction": 0.012688565308540699
+        },
+        {
+          "rgb_bin_center": [
+            216,
+            216,
+            232
+          ],
+          "pixel_fraction": 0.012073022058153313
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            232,
+            184
+          ],
+          "pixel_fraction": 0.010120602041746422
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            232,
+            200
+          ],
+          "pixel_fraction": 0.00928214155500866
+        },
+        {
+          "rgb_bin_center": [
+            152,
+            88,
+            40
+          ],
+          "pixel_fraction": 0.009103431774678698
+        },
+        {
+          "rgb_bin_center": [
+            104,
+            184,
+            248
+          ],
+          "pixel_fraction": 0.008003600401057333
+        },
+        {
+          "rgb_bin_center": [
+            136,
+            72,
+            40
+          ],
+          "pixel_fraction": 0.007644927536231884
+        },
+        {
+          "rgb_bin_center": [
+            120,
+            184,
+            248
+          ],
+          "pixel_fraction": 0.007523357032175736
+        },
+        {
+          "rgb_bin_center": [
+            136,
+            88,
+            40
+          ],
+          "pixel_fraction": 0.0070537667487011214
+        }
+      ],
+      "decode_analysis_seconds": 7.61,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "He-Could-Spot-SnapYT.App.mp4",
+      "slug": "spot",
+      "sha256": "a8d5e790af4241055316c7b1c1093fce1f6f4a0fa2f1e663f1c1d5bda42ac190",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1898,
+      "video_duration": 63.266667,
+      "container_duration": 63.317333,
+      "first_pts": 0.0,
+      "last_pts": 63.233333,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 32,
+      "candidate_transition_count": 3,
+      "candidate_transitions": [
+        {
+          "frame": 156,
+          "time": 5.2,
+          "top_delta": 0.14400655031204224,
+          "hist_distance": 0.3291255390906083,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1247,
+          "time": 41.566667,
+          "top_delta": 0.21583148837089539,
+          "hist_distance": 0.23164072504387645,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1499,
+          "time": 49.966667,
+          "top_delta": 0.18258312344551086,
+          "hist_distance": 0.2845722164921912,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.19280722141265869,
+          "median": 0.4421652853488922,
+          "p95": 0.6571452826261498
+        },
+        "y_p05": {
+          "p05": 0.03891843184828758,
+          "median": 0.09597961604595184,
+          "p95": 0.25546427518129333
+        },
+        "y_median": {
+          "p05": 0.11913914009928703,
+          "median": 0.41669392585754395,
+          "p95": 0.7933180302381515
+        },
+        "y_p95": {
+          "p05": 0.5897815227508545,
+          "median": 0.8756914719939232,
+          "p95": 0.9584314554929734
+        },
+        "saturation_mean": {
+          "p05": 0.1989100830610022,
+          "median": 0.472474332788671,
+          "p95": 0.6383071486928105
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.00808420138888889,
+          "median": 0.11510633680555556,
+          "p95": 0.5032391493055555
+        },
+        "laplacian_variance": {
+          "p05": 804.7120699075883,
+          "median": 2723.4321328872493,
+          "p95": 5203.91384579356
+        },
+        "delta_visual_top": {
+          "p05": 0.00279099652543664,
+          "median": 0.023152174428105354,
+          "p95": 0.12601320669054983
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0005910191626753659,
+          "median": 0.016588236205279827,
+          "p95": 0.10112027078866945
+        },
+        "hist_distance_top": {
+          "p05": 0.021696362034743663,
+          "median": 0.055411021030791645,
+          "p95": 0.18233919565679066
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            56
+          ],
+          "pixel_fraction": 0.02550250263435195
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            40
+          ],
+          "pixel_fraction": 0.02003069751785505
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.017577859735393983
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            40,
+            56
+          ],
+          "pixel_fraction": 0.016992704308628967
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            24
+          ],
+          "pixel_fraction": 0.01682264225500527
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            24,
+            40
+          ],
+          "pixel_fraction": 0.01641581781992741
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            232,
+            232
+          ],
+          "pixel_fraction": 0.015505502868516567
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            8,
+            24
+          ],
+          "pixel_fraction": 0.01423358652382625
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            24,
+            24
+          ],
+          "pixel_fraction": 0.010736996546071888
+        },
+        {
+          "rgb_bin_center": [
+            216,
+            216,
+            216
+          ],
+          "pixel_fraction": 0.010266398840885142
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            232,
+            248
+          ],
+          "pixel_fraction": 0.010011561878000234
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            24,
+            56
+          ],
+          "pixel_fraction": 0.00966712036061351
+        }
+      ],
+      "decode_analysis_seconds": 12.19,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "Why-Cashiers-Keep-SnapYT.App.mp4",
+      "slug": "cashiers",
+      "sha256": "5b1621192dedcd6fab9f31b1a46fefcf061dc83074c4cbe829a830c7e2261724",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1732,
+      "video_duration": 57.733333,
+      "container_duration": 57.792,
+      "first_pts": 0.0,
+      "last_pts": 57.7,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 29,
+      "candidate_transition_count": 4,
+      "candidate_transitions": [
+        {
+          "frame": 44,
+          "time": 1.466667,
+          "top_delta": 0.23969396948814392,
+          "hist_distance": 0.22653035453596104,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 77,
+          "time": 2.566667,
+          "top_delta": 0.2206396907567978,
+          "hist_distance": 0.21067865682060571,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1615,
+          "time": 53.833333,
+          "top_delta": 0.13704925775527954,
+          "hist_distance": 0.3681008158471772,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1635,
+          "time": 54.5,
+          "top_delta": 0.03221132978796959,
+          "hist_distance": 0.5747800441697383,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.31186041235923767,
+          "median": 0.49507419764995575,
+          "p95": 0.7095631271600723
+        },
+        "y_p05": {
+          "p05": 0.08487607538700104,
+          "median": 0.14483216404914856,
+          "p95": 0.2601857759803533
+        },
+        "y_median": {
+          "p05": 0.29164654165506365,
+          "median": 0.5025325566530228,
+          "p95": 0.7698070406913757
+        },
+        "y_p95": {
+          "p05": 0.6113512396812439,
+          "median": 0.8859541118144989,
+          "p95": 0.9733623266220093
+        },
+        "saturation_mean": {
+          "p05": 0.32767808755446626,
+          "median": 0.41307958877995643,
+          "p95": 0.639589872685185
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.0055115017361111115,
+          "median": 0.03093967013888889,
+          "p95": 0.16286501736111095
+        },
+        "laplacian_variance": {
+          "p05": 726.9213355703396,
+          "median": 1896.8046448118612,
+          "p95": 3779.79624781577
+        },
+        "delta_visual_top": {
+          "p05": 0.0028885434148833156,
+          "median": 0.018279151059687138,
+          "p95": 0.10253356620669339
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0005094892490888017,
+          "median": 0.013839748222380877,
+          "p95": 0.10077582858502858
+        },
+        "hist_distance_top": {
+          "p05": 0.02188025829580905,
+          "median": 0.04826360873678891,
+          "p95": 0.27127522616613464
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.017530833012573774
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            40
+          ],
+          "pixel_fraction": 0.012685358929946112
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            200,
+            216
+          ],
+          "pixel_fraction": 0.012682832948421863
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            200,
+            200
+          ],
+          "pixel_fraction": 0.010836220169361047
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            216,
+            232
+          ],
+          "pixel_fraction": 0.010154044778034386
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            232,
+            232
+          ],
+          "pixel_fraction": 0.008772533358994097
+        },
+        {
+          "rgb_bin_center": [
+            216,
+            216,
+            216
+          ],
+          "pixel_fraction": 0.008418334616371568
+        },
+        {
+          "rgb_bin_center": [
+            216,
+            216,
+            232
+          ],
+          "pixel_fraction": 0.0080957707852194
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            232,
+            216
+          ],
+          "pixel_fraction": 0.007827014370028227
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            232,
+            232
+          ],
+          "pixel_fraction": 0.007697788362843213
+        },
+        {
+          "rgb_bin_center": [
+            200,
+            200,
+            232
+          ],
+          "pixel_fraction": 0.007632714267385168
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            24,
+            24
+          ],
+          "pixel_fraction": 0.0073573421862971515
+        }
+      ],
+      "decode_analysis_seconds": 10.98,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "This-Shape.mp4",
+      "slug": "shape",
+      "sha256": "c87c4abb4892f758fc4a2d776efbeb0da2292af8a6816555f78123b6cb7b34b1",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1895,
+      "video_duration": 63.166667,
+      "container_duration": 63.210667,
+      "first_pts": 0.0,
+      "last_pts": 63.133333,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 32,
+      "candidate_transition_count": 1,
+      "candidate_transitions": [
+        {
+          "frame": 630,
+          "time": 21.0,
+          "top_delta": 0.1701866090297699,
+          "hist_distance": 0.4336316036548249,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.21962925493717195,
+          "median": 0.4368440806865692,
+          "p95": 0.5478640615940094
+        },
+        "y_p05": {
+          "p05": 0.005662745330482721,
+          "median": 0.14357176423072815,
+          "p95": 0.3320390804111958
+        },
+        "y_median": {
+          "p05": 0.19344244599342347,
+          "median": 0.4438651204109192,
+          "p95": 0.5851415485143661
+        },
+        "y_p95": {
+          "p05": 0.40859338790178246,
+          "median": 0.7567121386528015,
+          "p95": 0.971946656703949
+        },
+        "saturation_mean": {
+          "p05": 0.2503184844771242,
+          "median": 0.4854043436819172,
+          "p95": 0.6261384940087147
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.00251171875,
+          "median": 0.026124131944444445,
+          "p95": 0.2286080729166666
+        },
+        "laplacian_variance": {
+          "p05": 718.2380891993996,
+          "median": 1667.0494023328993,
+          "p95": 3528.8864844438713
+        },
+        "delta_visual_top": {
+          "p05": 0.0033110070507973433,
+          "median": 0.031832244247198105,
+          "p95": 0.08477164432406424
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0013709514401853084,
+          "median": 0.02441515401005745,
+          "p95": 0.10894401967525483
+        },
+        "hist_distance_top": {
+          "p05": 0.02270588328025494,
+          "median": 0.05338856510013781,
+          "p95": 0.15504249379000973
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            40,
+            104,
+            200
+          ],
+          "pixel_fraction": 0.012123277631193198
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            40,
+            56
+          ],
+          "pixel_fraction": 0.011850190559953093
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.01159872471416007
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            120,
+            216
+          ],
+          "pixel_fraction": 0.011453349457637057
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            8
+          ],
+          "pixel_fraction": 0.009980357666373497
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            40,
+            104
+          ],
+          "pixel_fraction": 0.009831061272354148
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            56,
+            120
+          ],
+          "pixel_fraction": 0.00929181325124597
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            120,
+            216
+          ],
+          "pixel_fraction": 0.009109315450014659
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            40,
+            72
+          ],
+          "pixel_fraction": 0.008879287598944591
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            24
+          ],
+          "pixel_fraction": 0.008590002931691586
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            40,
+            120
+          ],
+          "pixel_fraction": 0.008583883025505716
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            88,
+            200
+          ],
+          "pixel_fraction": 0.007843227792436236
+        }
+      ],
+      "decode_analysis_seconds": 11.96,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "Why-Perfect-Railroads-SnapYT.App.mp4",
+      "slug": "railroads",
+      "sha256": "78cfabaf3f6dc753cd3627dfc01991221ab029532f2a12a2ede1f09cfe3d44be",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1955,
+      "video_duration": 65.166667,
+      "container_duration": 65.216,
+      "first_pts": 0.0,
+      "last_pts": 65.133333,
+      "cadence_max_error_seconds": 6.666666773000318e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 33,
+      "candidate_transition_count": 3,
+      "candidate_transitions": [
+        {
+          "frame": 112,
+          "time": 3.733333,
+          "top_delta": 0.2096346616744995,
+          "hist_distance": 0.4266707515450242,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 790,
+          "time": 26.333333,
+          "top_delta": 0.1305948793888092,
+          "hist_distance": 0.22049195869236818,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1929,
+          "time": 64.3,
+          "top_delta": 0.13437993824481964,
+          "hist_distance": 0.3103490250265073,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.24585412442684174,
+          "median": 0.4570465385913849,
+          "p95": 0.5834511399269103
+        },
+        "y_p05": {
+          "p05": 0.08710980415344238,
+          "median": 0.15834744274616241,
+          "p95": 0.2757482317090034
+        },
+        "y_median": {
+          "p05": 0.2040534123778343,
+          "median": 0.4476694166660309,
+          "p95": 0.6128810584545135
+        },
+        "y_p95": {
+          "p05": 0.5538092446327206,
+          "median": 0.7534486055374146,
+          "p95": 0.9584389865398406
+        },
+        "saturation_mean": {
+          "p05": 0.3081036220043573,
+          "median": 0.4687138480392157,
+          "p95": 0.6398821555010893
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.001896701388888889,
+          "median": 0.011948784722222222,
+          "p95": 0.19568359374999988
+        },
+        "laplacian_variance": {
+          "p05": 477.11554144727165,
+          "median": 1237.178460804579,
+          "p95": 2247.817563824206
+        },
+        "delta_visual_top": {
+          "p05": 0.005762129928916693,
+          "median": 0.033288151025772095,
+          "p95": 0.10555092319846153
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0025259987683966755,
+          "median": 0.03668990731239319,
+          "p95": 0.11236490383744238
+        },
+        "hist_distance_top": {
+          "p05": 0.030710765695458546,
+          "median": 0.056413710000602135,
+          "p95": 0.2023024566168085
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.014302820403523729
+        },
+        {
+          "rgb_bin_center": [
+            72,
+            40,
+            40
+          ],
+          "pixel_fraction": 0.010077010514350667
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            24,
+            40
+          ],
+          "pixel_fraction": 0.00867039641943734
+        },
+        {
+          "rgb_bin_center": [
+            104,
+            40,
+            24
+          ],
+          "pixel_fraction": 0.008357807615799942
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            40,
+            56
+          ],
+          "pixel_fraction": 0.008186487638533675
+        },
+        {
+          "rgb_bin_center": [
+            120,
+            168,
+            232
+          ],
+          "pixel_fraction": 0.006794259732878658
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            56
+          ],
+          "pixel_fraction": 0.0063891375390736005
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            168,
+            104
+          ],
+          "pixel_fraction": 0.006042519181585678
+        },
+        {
+          "rgb_bin_center": [
+            168,
+            184,
+            232
+          ],
+          "pixel_fraction": 0.005941283034953112
+        },
+        {
+          "rgb_bin_center": [
+            232,
+            216,
+            216
+          ],
+          "pixel_fraction": 0.005674303779482808
+        },
+        {
+          "rgb_bin_center": [
+            184,
+            200,
+            232
+          ],
+          "pixel_fraction": 0.005666595623756749
+        },
+        {
+          "rgb_bin_center": [
+            248,
+            136,
+            56
+          ],
+          "pixel_fraction": 0.005581592782040352
+        }
+      ],
+      "decode_analysis_seconds": 12.59,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    },
+    {
+      "file": "1.mp4",
+      "slug": "sample-1",
+      "sha256": "b1caa759d6418eb433e80e257d4f7132d0b7ac3621ec05613466d9c7067f0dfd",
+      "width": 360,
+      "height": 640,
+      "native_fps": "30/1",
+      "decoded_frames": 1867,
+      "video_duration": 62.233333,
+      "container_duration": 62.293333,
+      "first_pts": 0.0,
+      "last_pts": 62.2,
+      "cadence_max_error_seconds": 6.666666701946045e-07,
+      "full_decode_passed": true,
+      "all_frames_exported": true,
+      "frame_collection_format": "native-sizeJPEGquality93; metrics calculated on decoded sourceRGB before JPEG",
+      "private_sheets": 32,
+      "candidate_transition_count": 9,
+      "candidate_transitions": [
+        {
+          "frame": 37,
+          "time": 1.233333,
+          "top_delta": 0.25430986285209656,
+          "hist_distance": 0.6596193313048095,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 99,
+          "time": 3.3,
+          "top_delta": 0.26436156034469604,
+          "hist_distance": 0.6817268301389405,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 209,
+          "time": 6.966667,
+          "top_delta": 0.28457921743392944,
+          "hist_distance": 0.5605177607696692,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 387,
+          "time": 12.9,
+          "top_delta": 0.26370882987976074,
+          "hist_distance": 0.3861888941803675,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 481,
+          "time": 16.033333,
+          "top_delta": 0.138294979929924,
+          "hist_distance": 0.33089389439419215,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 884,
+          "time": 29.466667,
+          "top_delta": 0.29592281579971313,
+          "hist_distance": 0.6615682179431847,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1101,
+          "time": 36.7,
+          "top_delta": 0.37447354197502136,
+          "hist_distance": 0.641485517414754,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1161,
+          "time": 38.7,
+          "top_delta": 0.35374370217323303,
+          "hist_distance": 0.5569002479446424,
+          "kind": "candidate_requires_visual_review"
+        },
+        {
+          "frame": 1657,
+          "time": 55.233333,
+          "top_delta": 0.22839991748332977,
+          "hist_distance": 0.6148496848024496,
+          "kind": "candidate_requires_visual_review"
+        }
+      ],
+      "metric_summary": {
+        "y_mean": {
+          "p05": 0.2221740558743477,
+          "median": 0.40038174390792847,
+          "p95": 0.5536393761634827
+        },
+        "y_p05": {
+          "p05": 0.02112643141299486,
+          "median": 0.0605427511036396,
+          "p95": 0.2239104315638542
+        },
+        "y_median": {
+          "p05": 0.14951294660568237,
+          "median": 0.37199294567108154,
+          "p95": 0.5463695049285888
+        },
+        "y_p95": {
+          "p05": 0.6205337345600128,
+          "median": 0.8111658126115793,
+          "p95": 0.9848406255245209
+        },
+        "saturation_mean": {
+          "p05": 0.2627088235294118,
+          "median": 0.42437711056644883,
+          "p95": 0.6717063657407408
+        },
+        "ink_fraction_proxy": {
+          "p05": 0.00859375,
+          "median": 0.13625434027777777,
+          "p95": 0.37690842013888864
+        },
+        "laplacian_variance": {
+          "p05": 995.9398869310618,
+          "median": 1612.7677382809488,
+          "p95": 3089.516172619056
+        },
+        "delta_visual_top": {
+          "p05": 0.0014071233104914428,
+          "median": 0.02303163707256317,
+          "p95": 0.07253443449735637
+        },
+        "delta_caption_bottom": {
+          "p05": 0.0001508593792095781,
+          "median": 0.010368919000029564,
+          "p95": 0.06203548945486545
+        },
+        "hist_distance_top": {
+          "p05": 0.013424957449888577,
+          "median": 0.04949528112447229,
+          "p95": 0.16040513022416195
+        }
+      },
+      "rgb_palette_bins": [
+        {
+          "rgb_bin_center": [
+            248,
+            248,
+            248
+          ],
+          "pixel_fraction": 0.023276535440099982
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            8
+          ],
+          "pixel_fraction": 0.017059565256204248
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            40
+          ],
+          "pixel_fraction": 0.016419686960661786
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            24
+          ],
+          "pixel_fraction": 0.015839879783372018
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            40,
+            40
+          ],
+          "pixel_fraction": 0.013544047193953461
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            24,
+            24
+          ],
+          "pixel_fraction": 0.012678204784859846
+        },
+        {
+          "rgb_bin_center": [
+            8,
+            8,
+            56
+          ],
+          "pixel_fraction": 0.00993699041837767
+        },
+        {
+          "rgb_bin_center": [
+            40,
+            40,
+            56
+          ],
+          "pixel_fraction": 0.00862941141462834
+        },
+        {
+          "rgb_bin_center": [
+            24,
+            40,
+            40
+          ],
+          "pixel_fraction": 0.008408022376956497
+        },
+        {
+          "rgb_bin_center": [
+            152,
+            152,
+            168
+          ],
+          "pixel_fraction": 0.007839522704278998
+        },
+        {
+          "rgb_bin_center": [
+            56,
+            56,
+            56
+          ],
+          "pixel_fraction": 0.0071446691067071355
+        },
+        {
+          "rgb_bin_center": [
+            136,
+            136,
+            152
+          ],
+          "pixel_fraction": 0.007135295780515384
+        }
+      ],
+      "decode_analysis_seconds": 11.37,
+      "software": {
+        "opencv": "5.0.0",
+        "numpy": "2.3.5"
+      },
+      "limits": [
+        "Compressed360x640source, no genuine higher-resolution detail recoverable.",
+        "Transition candidates and affine feature motion are observations, not authoritative cuts or physical camera parameters.",
+        "Caption region mask is coarse; y<72% excludes most but not necessarily all text.",
+        "Automatic ink, sharpness and brightness proxies mix subject, set, captions and compression; do not treat as material or lighting measurements."
+      ]
+    }
+  ],
+  "total_frames": 12488
+}
