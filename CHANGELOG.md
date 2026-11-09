@@ -12,3 +12,7 @@
 - Preserved the13 MIT-attributed bridge source files unchanged as an implementation example, with host/asset/runtime limits stated.
 - Added reference-media exclusions, safe repeat-run behavior and installation privacy tests. No supplied footage, extracted image pixels or audio is published.
 - This release is a researched skill, not a newly rendered example proving final visual identity.
+
+## Original production example
+
+Added a 15-second 1080 × 1920 Leidenfrost short with original Mia/Leo characters, synthetic dialogue, white Arial captions, deterministic source and final render verification.

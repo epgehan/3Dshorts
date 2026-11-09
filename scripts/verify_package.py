@@ -6,7 +6,7 @@ import yaml
 root=Path(__file__).resolve().parents[1];issues=[];counts={'json':0,'markdown':0,'python':0,'local_markdown_links':0}
 for f in root.rglob('*'):
  if not f.is_file() or any(x in {'.git','.venv','node_modules','__pycache__','.private-study'} for x in f.relative_to(root).parts):continue
- if f.suffix.lower() in {'.mp4','.mov','.mkv','.webm','.avi','.mp3','.wav','.jpg','.jpeg','.png','.webp','.zip'}:issues.append('Reference/media artifact must not be in published package: '+str(f.relative_to(root)))
+ if f.relative_to(root).parts[0]!='videos' and f.suffix.lower() in {'.mp4','.mov','.mkv','.webm','.avi','.mp3','.wav','.jpg','.jpeg','.png','.webp','.zip'}:issues.append('Reference/media artifact must not be in published package: '+str(f.relative_to(root)))
  if f.suffix=='.json':json.loads(f.read_text());counts['json']+=1
  if f.suffix=='.py':ast.parse(f.read_text(),filename=str(f));counts['python']+=1
  if f.suffix=='.md':

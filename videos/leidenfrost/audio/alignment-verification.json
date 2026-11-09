@@ -1,0 +1,375 @@
+{
+  "method": "Whisper.cpp tiny token DTW on individual actual generated lines; reviewed original transcript correspondence. See alignment-review.json for approved boundaries.",
+  "lines": [
+    {
+      "line": 1,
+      "expected": [
+        "Wait.",
+        "Why",
+        "is",
+        "that",
+        "water",
+        "skating?"
+      ],
+      "recognized": [
+        "Wait",
+        "Why",
+        "is",
+        "that",
+        "water",
+        "skating"
+      ],
+      "rawDTW": [
+        {
+          "text": "Wait",
+          "centers": [
+            0.24
+          ],
+          "start": 0.03,
+          "end": 0.24
+        },
+        {
+          "text": "Why",
+          "centers": [
+            0.74
+          ],
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "text": "is",
+          "centers": [
+            0.9
+          ],
+          "start": 0.6,
+          "end": 0.72
+        },
+        {
+          "text": "that",
+          "centers": [
+            1.14
+          ],
+          "start": 0.72,
+          "end": 0.96
+        },
+        {
+          "text": "water",
+          "centers": [
+            1.42
+          ],
+          "start": 0.96,
+          "end": 1.26
+        },
+        {
+          "text": "skating",
+          "centers": [
+            1.76
+          ],
+          "start": 1.26,
+          "end": 1.69
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "expected": [
+        "It",
+        "is",
+        "like",
+        "a",
+        "tiny",
+        "hovercraft."
+      ],
+      "recognized": [
+        "It",
+        "is",
+        "like",
+        "a",
+        "tiny",
+        "hovercraft"
+      ],
+      "rawDTW": [
+        {
+          "text": "It",
+          "centers": [
+            0.24
+          ],
+          "start": 0.1,
+          "end": 0.15
+        },
+        {
+          "text": "is",
+          "centers": [
+            0.52
+          ],
+          "start": 0.15,
+          "end": 0.3
+        },
+        {
+          "text": "like",
+          "centers": [
+            0.66
+          ],
+          "start": 0.3,
+          "end": 0.59
+        },
+        {
+          "text": "a",
+          "centers": [
+            0.84
+          ],
+          "start": 0.59,
+          "end": 0.6
+        },
+        {
+          "text": "tiny",
+          "centers": [
+            1.14
+          ],
+          "start": 0.67,
+          "end": 0.97
+        },
+        {
+          "text": "hovercraft",
+          "centers": [
+            1.42,
+            1.86
+          ],
+          "start": 0.97,
+          "end": 1.63
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "expected": [
+        "The",
+        "hot",
+        "pan",
+        "turns",
+        "the",
+        "bottom",
+        "of",
+        "the",
+        "drop",
+        "into",
+        "steam.",
+        "The",
+        "rest",
+        "floats",
+        "on",
+        "it."
+      ],
+      "recognized": [
+        "The",
+        "hot",
+        "pan",
+        "turns",
+        "the",
+        "bottom",
+        "of",
+        "the",
+        "drop",
+        "into",
+        "steam",
+        "The",
+        "rest",
+        "floats",
+        "on",
+        "it"
+      ],
+      "rawDTW": [
+        {
+          "text": "The",
+          "centers": [
+            0.0
+          ],
+          "start": 0.05,
+          "end": 0.24
+        },
+        {
+          "text": "hot",
+          "centers": [
+            0.5
+          ],
+          "start": 0.24,
+          "end": 0.37
+        },
+        {
+          "text": "pan",
+          "centers": [
+            0.88
+          ],
+          "start": 0.48,
+          "end": 0.72
+        },
+        {
+          "text": "turns",
+          "centers": [
+            1.22
+          ],
+          "start": 0.72,
+          "end": 1.11
+        },
+        {
+          "text": "the",
+          "centers": [
+            1.46
+          ],
+          "start": 1.11,
+          "end": 1.35
+        },
+        {
+          "text": "bottom",
+          "centers": [
+            1.78
+          ],
+          "start": 1.35,
+          "end": 1.81
+        },
+        {
+          "text": "of",
+          "centers": [
+            2.02
+          ],
+          "start": 1.81,
+          "end": 1.98
+        },
+        {
+          "text": "the",
+          "centers": [
+            2.16
+          ],
+          "start": 1.98,
+          "end": 2.22
+        },
+        {
+          "text": "drop",
+          "centers": [
+            2.38
+          ],
+          "start": 2.22,
+          "end": 2.54
+        },
+        {
+          "text": "into",
+          "centers": [
+            2.7
+          ],
+          "start": 2.54,
+          "end": 2.86
+        },
+        {
+          "text": "steam",
+          "centers": [
+            3.16
+          ],
+          "start": 2.86,
+          "end": 3.05
+        },
+        {
+          "text": "The",
+          "centers": [
+            3.78
+          ],
+          "start": 3.58,
+          "end": 3.72
+        },
+        {
+          "text": "rest",
+          "centers": [
+            4.08
+          ],
+          "start": 3.72,
+          "end": 3.96
+        },
+        {
+          "text": "floats",
+          "centers": [
+            4.38
+          ],
+          "start": 4.13,
+          "end": 4.4
+        },
+        {
+          "text": "on",
+          "centers": [
+            4.74
+          ],
+          "start": 4.4,
+          "end": 4.53
+        },
+        {
+          "text": "it",
+          "centers": [
+            4.78
+          ],
+          "start": 4.53,
+          "end": 4.64
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "expected": [
+        "That",
+        "is",
+        "the",
+        "Leidenfrost",
+        "effect."
+      ],
+      "recognized": [
+        "That",
+        "is",
+        "the",
+        "Leidenfrost",
+        "effect"
+      ],
+      "rawDTW": [
+        {
+          "text": "That",
+          "centers": [
+            0.12
+          ],
+          "start": 0.08,
+          "end": 0.3
+        },
+        {
+          "text": "is",
+          "centers": [
+            0.46
+          ],
+          "start": 0.3,
+          "end": 0.45
+        },
+        {
+          "text": "the",
+          "centers": [
+            0.68
+          ],
+          "start": 0.45,
+          "end": 0.68
+        },
+        {
+          "text": "Leidenfrost",
+          "centers": [
+            0.82,
+            1.08,
+            1.4,
+            1.44
+          ],
+          "start": 0.68,
+          "end": 1.5
+        },
+        {
+          "text": "effect",
+          "centers": [
+            2.0
+          ],
+          "start": 1.52,
+          "end": 1.77
+        }
+      ]
+    }
+  ]
+}

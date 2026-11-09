@@ -1,0 +1,285 @@
+{
+  "fps": 30,
+  "durationFrames": 450,
+  "style": {
+    "fontFamily": "Arial",
+    "fontWeight": "bold",
+    "fill": "#ffffff",
+    "stroke": "#000000",
+    "case": "ALL CAPS"
+  },
+  "rounding": "Round each absolute second boundary once to nearest 30fps frame; intervals are half-open [startFrame,endFrame).",
+  "timingMethod": "Whisper.cpp tiny token DTW on each actual voice stem; adjacent token centers bracket word boundaries, with onset offsets and sentence pauses retained. Approximate model alignment, not manually auditioned word onsets.",
+  "cues": [
+    {
+      "startFrame": 11,
+      "endFrame": 22,
+      "text": "WAIT."
+    },
+    {
+      "startFrame": 26,
+      "endFrame": 49,
+      "text": "WHY IS THAT"
+    },
+    {
+      "startFrame": 49,
+      "endFrame": 69,
+      "text": "WATER SKATING?"
+    },
+    {
+      "startFrame": 98,
+      "endFrame": 117,
+      "text": "IT IS LIKE"
+    },
+    {
+      "startFrame": 117,
+      "endFrame": 157,
+      "text": "A TINY HOVERCRAFT."
+    },
+    {
+      "startFrame": 185,
+      "endFrame": 215,
+      "text": "THE HOT PAN"
+    },
+    {
+      "startFrame": 215,
+      "endFrame": 241,
+      "text": "TURNS THE BOTTOM"
+    },
+    {
+      "startFrame": 241,
+      "endFrame": 260,
+      "text": "OF THE DROP"
+    },
+    {
+      "startFrame": 260,
+      "endFrame": 283,
+      "text": "INTO STEAM."
+    },
+    {
+      "startFrame": 291,
+      "endFrame": 310,
+      "text": "THE REST"
+    },
+    {
+      "startFrame": 310,
+      "endFrame": 329,
+      "text": "FLOATS ON IT."
+    },
+    {
+      "startFrame": 367,
+      "endFrame": 387,
+      "text": "THAT IS THE"
+    },
+    {
+      "startFrame": 387,
+      "endFrame": 416,
+      "text": "LEIDENFROST"
+    },
+    {
+      "startFrame": 416,
+      "endFrame": 428,
+      "text": "EFFECT."
+    }
+  ],
+  "words": [
+    {
+      "text": "Wait.",
+      "start": 0.38,
+      "end": 0.74,
+      "speaker": "Mia"
+    },
+    {
+      "text": "Why",
+      "start": 0.85,
+      "end": 1.17,
+      "speaker": "Mia"
+    },
+    {
+      "text": "is",
+      "start": 1.17,
+      "end": 1.37,
+      "speaker": "Mia"
+    },
+    {
+      "text": "that",
+      "start": 1.37,
+      "end": 1.63,
+      "speaker": "Mia"
+    },
+    {
+      "text": "water",
+      "start": 1.63,
+      "end": 1.94,
+      "speaker": "Mia"
+    },
+    {
+      "text": "skating?",
+      "start": 1.94,
+      "end": 2.2886,
+      "speaker": "Mia"
+    },
+    {
+      "text": "It",
+      "start": 3.25,
+      "end": 3.53,
+      "speaker": "Leo"
+    },
+    {
+      "text": "is",
+      "start": 3.53,
+      "end": 3.74,
+      "speaker": "Leo"
+    },
+    {
+      "text": "like",
+      "start": 3.74,
+      "end": 3.9,
+      "speaker": "Leo"
+    },
+    {
+      "text": "a",
+      "start": 3.9,
+      "end": 4.14,
+      "speaker": "Leo"
+    },
+    {
+      "text": "tiny",
+      "start": 4.14,
+      "end": 4.43,
+      "speaker": "Leo"
+    },
+    {
+      "text": "hovercraft.",
+      "start": 4.43,
+      "end": 5.2327,
+      "speaker": "Leo"
+    },
+    {
+      "text": "The",
+      "start": 6.17,
+      "end": 6.37,
+      "speaker": "Leo"
+    },
+    {
+      "text": "hot",
+      "start": 6.37,
+      "end": 6.81,
+      "speaker": "Leo"
+    },
+    {
+      "text": "pan",
+      "start": 6.81,
+      "end": 7.17,
+      "speaker": "Leo"
+    },
+    {
+      "text": "turns",
+      "start": 7.17,
+      "end": 7.46,
+      "speaker": "Leo"
+    },
+    {
+      "text": "the",
+      "start": 7.46,
+      "end": 7.74,
+      "speaker": "Leo"
+    },
+    {
+      "text": "bottom",
+      "start": 7.74,
+      "end": 8.02,
+      "speaker": "Leo"
+    },
+    {
+      "text": "of",
+      "start": 8.02,
+      "end": 8.21,
+      "speaker": "Leo"
+    },
+    {
+      "text": "the",
+      "start": 8.21,
+      "end": 8.39,
+      "speaker": "Leo"
+    },
+    {
+      "text": "drop",
+      "start": 8.39,
+      "end": 8.66,
+      "speaker": "Leo"
+    },
+    {
+      "text": "into",
+      "start": 8.66,
+      "end": 9.05,
+      "speaker": "Leo"
+    },
+    {
+      "text": "steam.",
+      "start": 9.05,
+      "end": 9.43,
+      "speaker": "Leo"
+    },
+    {
+      "text": "The",
+      "start": 9.7,
+      "end": 10.05,
+      "speaker": "Leo"
+    },
+    {
+      "text": "rest",
+      "start": 10.05,
+      "end": 10.35,
+      "speaker": "Leo"
+    },
+    {
+      "text": "floats",
+      "start": 10.35,
+      "end": 10.68,
+      "speaker": "Leo"
+    },
+    {
+      "text": "on",
+      "start": 10.68,
+      "end": 10.88,
+      "speaker": "Leo"
+    },
+    {
+      "text": "it.",
+      "start": 10.88,
+      "end": 10.9781,
+      "speaker": "Leo"
+    },
+    {
+      "text": "That",
+      "start": 12.23,
+      "end": 12.44,
+      "speaker": "Leo"
+    },
+    {
+      "text": "is",
+      "start": 12.44,
+      "end": 12.72,
+      "speaker": "Leo"
+    },
+    {
+      "text": "the",
+      "start": 12.72,
+      "end": 12.9,
+      "speaker": "Leo"
+    },
+    {
+      "text": "Leidenfrost",
+      "start": 12.9,
+      "end": 13.87,
+      "speaker": "Leo"
+    },
+    {
+      "text": "effect.",
+      "start": 13.87,
+      "end": 14.2573,
+      "speaker": "Leo"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "durationSeconds": 15,
+  "sampleRate": 48000,
+  "channels": 2,
+  "dialogue": [
+    {
+      "speaker": "Mia",
+      "voice": "af_heart",
+      "start": 0.35,
+      "slotEnd": 3,
+      "text": "Wait. Why is that water skating?",
+      "speed": 0.95,
+      "duration": 1.938625,
+      "end": 2.288625,
+      "atempo": 1.0
+    },
+    {
+      "speaker": "Leo",
+      "voice": "am_michael",
+      "start": 3.15,
+      "slotEnd": 6,
+      "text": "It is like a tiny hovercraft.",
+      "speed": 0.98,
+      "duration": 2.082667,
+      "end": 5.232667,
+      "atempo": 1.0
+    },
+    {
+      "speaker": "Leo",
+      "voice": "am_michael",
+      "start": 6.12,
+      "slotEnd": 12,
+      "text": "The hot pan turns the bottom of the drop into steam. The rest floats on it.",
+      "speed": 0.96,
+      "duration": 4.858125,
+      "end": 10.978125,
+      "atempo": 1.0
+    },
+    {
+      "speaker": "Leo",
+      "voice": "am_michael",
+      "start": 12.15,
+      "slotEnd": 15,
+      "text": "That is the Leidenfrost effect.",
+      "speed": 0.98,
+      "duration": 2.10725,
+      "end": 14.25725,
+      "atempo": 1.0
+    }
+  ],
+  "integratedLUFS": -15.1,
+  "truePeakDBTP": -1.5,
+  "effects": "Original seeded procedural landing zip, glide wisps and quiet steam; no music.",
+  "source": "Authorized synthetic original dialogue; Kokoro ONNX v1.0; af_heart (female), am_michael (male).",
+  "pronunciation": "Leidenfrost synthesized with input Lye-den-frost; approved transcript preserved.",
+  "alignment": "See captions.json and alignment-verification.json. ASR timestamps have model uncertainty.",
+  "mp3Verification": {
+    "integratedLUFS": -15.36,
+    "truePeakDBTP": -1.71,
+    "decodedDurationSeconds": 15.0
+  },
+  "masterFormat": {
+    "codec": "PCM signed 24-bit little-endian",
+    "measuredDurationSeconds": 15.0,
+    "frames": 720000,
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "filesSHA256": {
+    "audio.wav": "4ac137c9162260e8ee453b958a03f5e95b721fc8fa0b80ec9240579696f96cab",
+    "audio.mp3": "147ec28d829b7d21cf2d47b7545df701f9c68936c548a322ed1349f2033d333c"
+  },
+  "timingEvidence": {
+    "method": "Per-line whisper.cpp tiny DTW of actual generated audio. All recognized words exactly match original dialogue. Caption groups use neighboring DTW word centers, with sentence pauses retained.",
+    "limits": "Model-derived word boundaries are approximate; no claim of manually auditioned word onset precision.",
+    "wordCount": 33,
+    "cueCount": 14
+  }
+}

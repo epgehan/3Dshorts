@@ -23,3 +23,14 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Original episode deliverables; supplied reference media remain excluded above.
+!videos/leidenfrost/Leidenfrost_15s_1080x1920.mp4
+!videos/leidenfrost/audio/audio.wav
+!videos/leidenfrost/audio/audio.mp3
+!videos/leidenfrost/RENDER_CHECKS.jpg
+!videos/leidenfrost/LOOK_PROBES.jpg
+!videos/leidenfrost/CHARACTERS.jpg
+videos/leidenfrost/assets/Arial-Bold.ttf
+videos/leidenfrost/.render-qa/
+videos/leidenfrost/models/

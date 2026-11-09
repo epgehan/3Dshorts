@@ -76,7 +76,7 @@ Open `http://127.0.0.1:8841/`. Select a video, step one frame with left/right ar
 
 The new study supports multiple lighting recipes, protected pale faces, character front/back variants, held poses, short expressive changes, hard cuts/dissolves/POV inserts and shot-specific camera moves. It does not establish original physical light intensities, exact lenses/eases/rigs or a single immutable shader preset.
 
-No new matching short has been rendered yet. Package checks and source-frame analysis are not a production look-match pass. An original episode still needs probes, narration alignment, contact/motion checks, a final render and visual acceptance.
+An original [15-second Leidenfrost episode](videos/leidenfrost/README.md) is now rendered, with editable source, character/look probes, timing data and final decode/audio checks. This production example follows the skill; it does not claim identical source pixels or recovered reference rigs.
 
 ## Attribution
 

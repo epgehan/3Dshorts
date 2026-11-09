@@ -1,0 +1,9 @@
+# Python 3.11; install into an isolated environment or --target directory.
+kokoro-onnx==0.6.1
+numpy
+scipy
+soundfile
+# System tools: ffmpeg, ffprobe. kokoro-onnx uses bundled espeak-ng-loader.
+# Alignment: whisper.cpp v1.8.2, ggml-tiny.bin, DTW model preset tiny.
+# Model files are external build dependencies, not repository content:
+# https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0
